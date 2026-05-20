@@ -1,0 +1,44 @@
+[
+  {
+    "id": "listing-001",
+    "title": "Downtown Loft",
+    "featured": true,
+    "price": 450000,
+    "location": "New York, NY"
+  },
+  {
+    "id": "listing-002",
+    "title": "Suburban Family Home",
+    "featured": true,
+    "price": 320000,
+    "location": "Austin, TX"
+  },
+  {
+    "id": "listing-003",
+    "title": "Beachfront Condo",
+    "featured": true,
+    "price": 780000,
+    "location": "Miami, FL"
+  },
+  {
+    "id": "listing-004",
+    "title": "Mountain Retreat",
+    "featured": false,
+    "price": 530000,
+    "location": "Denver, CO"
+  },
+  {
+    "id": "listing-005",
+    "title": "Historic Townhouse",
+    "featured": false,
+    "price": 615000,
+    "location": "Boston, MA"
+  },
+  {
+    "id": "listing-006",
+    "title": "Modern Studio",
+    "featured": false,
+    "price": 210000,
+    "location": "Chicago, IL"
+  }
+]
