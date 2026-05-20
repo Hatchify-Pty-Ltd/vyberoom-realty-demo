@@ -1,0 +1,122 @@
+[
+  {
+    "id": "listing-001",
+    "title": "Downtown Loft",
+    "featured": true,
+    "price": 450000
+  },
+  {
+    "id": "listing-002",
+    "title": "Suburban Family Home",
+    "featured": false,
+    "price": 320000
+  },
+  {
+    "id": "listing-003",
+    "title": "Beachfront Condo",
+    "featured": true,
+    "price": 780000
+  },
+  {
+    "id": "listing-004",
+    "title": "Mountain Cabin",
+    "featured": false,
+    "price": 215000
+  },
+  {
+    "id": "listing-005",
+    "title": "Historic Townhouse",
+    "featured": true,
+    "price": 530000
+  },
+  {
+    "id": "listing-006",
+    "title": "Modern Studio",
+    "featured": false,
+    "price": 175000
+  },
+  {
+    "id": "listing-007",
+    "title": "Lakeside Retreat",
+    "featured": true,
+    "price": 640000
+  },
+  {
+    "id": "listing-008",
+    "title": "Urban Penthouse",
+    "featured": false,
+    "price": 1200000
+  },
+  {
+    "id": "listing-009",
+    "title": "Country Estate",
+    "featured": true,
+    "price": 890000
+  },
+  {
+    "id": "listing-010",
+    "title": "Cozy Bungalow",
+    "featured": false,
+    "price": 265000
+  },
+  {
+    "id": "listing-011",
+    "title": "Riverside Villa",
+    "featured": true,
+    "price": 720000
+  },
+  {
+    "id": "listing-012",
+    "title": "Desert Adobe",
+    "featured": false,
+    "price": 310000
+  },
+  {
+    "id": "listing-013",
+    "title": "Hilltop Manor",
+    "featured": true,
+    "price": 950000
+  },
+  {
+    "id": "listing-014",
+    "title": "Garden Cottage",
+    "featured": false,
+    "price": 198000
+  },
+  {
+    "id": "listing-015",
+    "title": "Skyline Apartment",
+    "featured": false,
+    "price": 415000
+  },
+  {
+    "id": "listing-016",
+    "title": "Forest Hideaway",
+    "featured": false,
+    "price": 287000
+  },
+  {
+    "id": "listing-017",
+    "title": "Coastal Bungalow",
+    "featured": true,
+    "price": 560000
+  },
+  {
+    "id": "listing-018",
+    "title": "Farmhouse Estate",
+    "featured": false,
+    "price": 430000
+  },
+  {
+    "id": "listing-019",
+    "title": "City Terrace",
+    "featured": true,
+    "price": 675000
+  },
+  {
+    "id": "listing-020",
+    "title": "Secluded Ranch",
+    "featured": false,
+    "price": 820000
+  }
+]
