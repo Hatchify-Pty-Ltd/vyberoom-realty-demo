@@ -1,0 +1,16 @@
+{
+  "id": "listing-003",
+  "featured": false,
+  "title": "Downtown Loft",
+  "description": "A modern loft in the heart of downtown.",
+  "price": 4500,
+  "currency": "USD",
+  "location": {
+    "city": "New York",
+    "state": "NY",
+    "country": "US"
+  },
+  "tags": ["loft", "downtown", "modern"],
+  "createdAt": "2024-01-15T08:00:00Z",
+  "updatedAt": "2025-07-14T00:00:00Z"
+}
